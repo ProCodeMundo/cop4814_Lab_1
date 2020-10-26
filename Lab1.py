@@ -1,8 +1,8 @@
 """
 Lab #1 - Coding Questions in Python (1208-FIU01-COP-4814-SECU03-85809)
-Ruben Estrada
-PID: 6151027
-Date: 19 Sept 2020
+R.E
+PID: ######
+Date: 2020
 
 """
 
