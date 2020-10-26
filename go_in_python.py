@@ -49,7 +49,7 @@ class COP4814Student():
 
         return "{0} {1} you will not ge an A.".format(self.first_name,self.last_name)
 
-andriusB = COP4814Student("Andrius","Bubelis",12001,"adrius@cop4814.edu",87)
+andriusB = COP4814Student("Andrius","Bubelis",12001,"adrius@mail",87)
 print(andriusB)
 print(andriusB.grade)
 
