@@ -1,7 +1,11 @@
 """
 Lab #1 - Coding Questions in Python (1208-FIU01-COP-4814-SECU03-85809)
 R.E
+<<<<<<< Updated upstream
 PID: ######
+=======
+PID: #####
+>>>>>>> Stashed changes
 Date: 2020
 
 """
