@@ -158,7 +158,8 @@ print("The largest number from the three input integer numbers is: ", max(a, b, 
 max(a, b, c)
 
 
-"""
+## Web sources
+""" 
 Sources:
 https://www.w3schools.com/python/python_comments.asp
 https://www.python.org/
